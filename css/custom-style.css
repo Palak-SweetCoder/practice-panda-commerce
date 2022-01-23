@@ -1,0 +1,34 @@
+/* custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h4{
+    color: #FF136F;
+}
+.panda-background{
+    background-color: #fceae8;
+}
+.panda-background h2{
+    color: #FF136F;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.catagories img{
+    width: 100px;
+}
+.categori-watch-bg{
+    background-color: #ffa500;
+}
+.categori-bag-bg{
+    background-color: #da70d6;
+}
+.categori-shoe-bg{
+    background-color: #4c4cbb;
+}
